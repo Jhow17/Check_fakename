@@ -1,6 +1,20 @@
 {
-    "name": "@adicionar_nome/coolsolelog",
+    "name": "consolelog",
     "version": "1.0.0",
-    "type": "module"
-
-}
+    "description": "��#\u0000 \u0000f\u0000a\u0000k\u0000e\u0000n\u0000a\u0000m\u0000e\u0000\r\u0000 \u0000",
+    "homepage": "https://github.com/Jhow17/Check_fakename#readme",
+    "bugs": {
+      "url": "https://github.com/Jhow17/Check_fakename/issues"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Jhow17/Check_fakename.git"
+    },
+    "license": "ISC",
+    "author": "Jonathan Silva",
+    "type": "module",
+    "main": "consolelog.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    }
+  }
