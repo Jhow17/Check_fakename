@@ -1,2 +1,3 @@
-import coolsolelog from "@adicionar_nome/coolsolelog";
-coolsolelog("Oi gente");
+import fakename from "./consolelog.js";
+
+console.log(fakename())
